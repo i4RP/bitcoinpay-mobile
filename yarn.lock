@@ -12266,9 +12266,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@react-native-community/datetimepicker@npm:^8.5.1":
-  version: 8.5.1
-  resolution: "@react-native-community/datetimepicker@npm:8.5.1"
+"@react-native-community/datetimepicker@npm:^9.1.0":
+  version: 9.1.0
+  resolution: "@react-native-community/datetimepicker@npm:9.1.0"
   dependencies:
     invariant: "npm:^2.2.4"
   peerDependencies:
@@ -12281,7 +12281,7 @@ __metadata:
       optional: true
     react-native-windows:
       optional: true
-  checksum: 10/6d28e8fc00cbc240b676c6c036e1c0c5be16d5dd91e18cff0d703dcc9219abdeab09d031f5c60204c2c3e96f70a194f1316006690990e44ed79f8a2b4ffebfe0
+  checksum: 10/b460e55422316e11b1999b0ddd1f2feb39a8f5c85b1ba5520d5c6630b2147e754a4e686ebc3adf44919bc849de85fe9379a4c4452596fea3e394fcb00b461052
   languageName: node
   linkType: hard
 
@@ -35568,7 +35568,7 @@ __metadata:
     "@react-native-community/cli-platform-android": "npm:15.0.1"
     "@react-native-community/cli-platform-ios": "npm:15.0.1"
     "@react-native-community/cli-server-api": "npm:^17.0.0"
-    "@react-native-community/datetimepicker": "npm:^8.5.1"
+    "@react-native-community/datetimepicker": "npm:^9.1.0"
     "@react-native-community/netinfo": "npm:^11.4.1"
     "@react-native-community/slider": "npm:^4.4.3"
     "@react-native-cookies/cookies": "npm:^6.2.1"
