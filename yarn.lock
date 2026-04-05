@@ -35782,7 +35782,7 @@ __metadata:
     react-native-default-preference: "npm:^1.4.3"
     react-native-device-info: "npm:^9.0.2"
     react-native-elevated-view: "npm:0.0.6"
-    react-native-fade-in-image: "npm:1.4.1"
+    react-native-fade-in-image: "npm:1.6.1"
     react-native-fast-crypto: "npm:^2.2.0"
     react-native-fs: "npm:^2.20.0"
     react-native-gesture-handler: "npm:^2.25.0"
@@ -40256,14 +40256,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-fade-in-image@npm:1.4.1":
-  version: 1.4.1
-  resolution: "react-native-fade-in-image@npm:1.4.1"
+"react-native-fade-in-image@npm:1.6.1":
+  version: 1.6.1
+  resolution: "react-native-fade-in-image@npm:1.6.1"
   dependencies:
     react-clone-referenced-element: "npm:^1.0.1"
     react-mixin: "npm:^3.0.5"
     react-timer-mixin: "npm:^0.13.3"
-  checksum: 10/443f99d9d1d6823dd48f59d1245805e234c975ce03dd0b0d8fee3914431324e3a1bded49eadd369b9a5681f6500d56d4b91d634bfcb891ceab756755eea43ffa
+  checksum: 10/28eab19d00005fdc13919409ff63196d914f6d8e52cdb606916f7737a898a729fd376e19958e8416d2638be76a154deb9f499295f015a96b29c45cc70e850a75
   languageName: node
   linkType: hard
 
