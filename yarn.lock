@@ -8138,15 +8138,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@metamask/design-system-twrnc-preset@npm:^0.4.0":
-  version: 0.4.0
-  resolution: "@metamask/design-system-twrnc-preset@npm:0.4.0"
+"@metamask/design-system-twrnc-preset@npm:^0.13.0":
+  version: 0.13.0
+  resolution: "@metamask/design-system-twrnc-preset@npm:0.13.0"
   dependencies:
     twrnc: "npm:^4.5.1"
   peerDependencies:
-    "@metamask/design-tokens": ^8.0.0
-    react: ^18.2.0
-  checksum: 10/a95257c4dd8ac62edc117857458677d33cf4d9b058ac007241a4a116aa6883e71b4deb455d626fea1f1991e9a1e8b02f539af739ea0eac47057fbafdb792500e
+    "@metamask/design-tokens": ^12.0.0
+    react: ">=18.2.0"
+  checksum: 10/677144b7a307a61c9989464be117198d7f39543b66fc53c49081cb1a6296e9e5e670ac42e367bbf40f87ce15fcd95927cb44498d3731bb5b754a0a79119340dd
   languageName: node
   linkType: hard
 
@@ -35452,7 +35452,7 @@ __metadata:
     "@metamask/delegation-controller": "npm:^2.0.2"
     "@metamask/delegation-deployments": "npm:^0.15.0"
     "@metamask/design-system-react-native": "npm:^0.13.0"
-    "@metamask/design-system-twrnc-preset": "npm:^0.4.0"
+    "@metamask/design-system-twrnc-preset": "npm:^0.13.0"
     "@metamask/design-tokens": "npm:^8.3.0"
     "@metamask/earn-controller": "npm:^10.0.0"
     "@metamask/eip-5792-middleware": "npm:^2.0.0"
