@@ -19600,13 +19600,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@veriff/react-native-sdk@npm:^11.2.0":
-  version: 11.2.0
-  resolution: "@veriff/react-native-sdk@npm:11.2.0"
+"@veriff/react-native-sdk@npm:^13.2.0":
+  version: 13.2.0
+  resolution: "@veriff/react-native-sdk@npm:13.2.0"
   peerDependencies:
     react: ^19.1.0
     react-native: ^0.81.0
-  checksum: 10/39f2f546db15a1360cef131d868143462610555413410df669b6266c1d28f42f82c675c1ff1f3ce060f2ed9fba6166a2332e2c2e64c9dc976ff7b28feec8434b
+  checksum: 10/4f97894ec8946572b63737e9616f5c5cc7257c0bd2af0f313778fc108ba34ffbc8ead101a7254f9dcfdb98554f49b2e01f1fd10592ddabaa86715dbc9c2d7530
   languageName: node
   linkType: hard
 
@@ -35634,7 +35634,7 @@ __metadata:
     "@types/ws": "npm:^8.18.1"
     "@typescript-eslint/eslint-plugin": "npm:^8.1.0"
     "@typescript-eslint/parser": "npm:^8.1.0"
-    "@veriff/react-native-sdk": "npm:^11.2.0"
+    "@veriff/react-native-sdk": "npm:^13.2.0"
     "@viem/anvil": "npm:^0.0.10"
     "@walletconnect/core": "npm:^2.23.0"
     "@walletconnect/react-native-compat": "npm:^2.23.0"
